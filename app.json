@@ -4,7 +4,7 @@
     "slug": "Splash-Screen-App-Icon-Example",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/custom-icon-01.png",
     "splash": {
       "image": "./assets/custom-splash-01.png",
       "resizeMode": "contain",
