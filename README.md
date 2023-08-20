@@ -1,6 +1,6 @@
 ### Splash Screen & App Icon Example App
 
-Demo-App zur Begleitung des Wahlpflichtmoduls "Mobile Anwendungen" an der DHSH (https://www.dhsh.de/).
+Demo-App für Schulungszwecke.
 
 Die App basiert auf React Native und Expo.
 
